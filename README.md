@@ -5,7 +5,7 @@ Route Vision is a university transport project that we are working on to make it
 Features
 
 * Check bus schedules and routes
-* Track bus locations
+* Track bus locations in real time
 * See the approximate arrival time
 * View driver information
 * Give ratings and feedback about drivers
