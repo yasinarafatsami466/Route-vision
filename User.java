@@ -32,7 +32,18 @@ public class User {
         System.out.println(name + " is searching for buses on " + route);
     }
 
+    public void checkBusSchedule(String route) {
+        System.out.println("Checking bus schedule for " + route);
+    }
+
     public void giveFeedback(String feedback) {
-        System.out.println("Feedback: " + feedback);
+        System.out.println(name + " gave feedback: " + feedback);
+    }
+
+    public void displayUserInfo() {
+        System.out.println("User ID: " + userId);
+        System.out.println("Name: " + name);
+        System.out.println("Phone: " + phone);
+        System.out.println("Email: " + email);
     }
 }
