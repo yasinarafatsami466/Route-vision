@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasinarafatsami466/Route-vision/main/Route-vison-logo.jpg" width="500">
+  <img src="./Route-vison-logo.jpg" width="500" alt="Route Vision Logo">
 </p>
+
+#Route Vision
 #Route Vision 
 
 Route Vision is a university transport project that we are working on to make it easier for users to find and track university buses. Users can check bus schedules, routes, current locations, and driver information in one place.
