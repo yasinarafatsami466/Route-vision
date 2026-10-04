@@ -44,6 +44,10 @@ public class User {
         System.out.println("Checking current location of bus " + busNumber);
     }
 
+    public void checkBusAvailability(String busNumber) {
+        System.out.println("Checking availability of bus " + busNumber);
+    }
+
     public void displayUserInfo() {
         System.out.println("User ID: " + userId);
         System.out.println("Name: " + name);
