@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasinarafatsami466/Route-vision/main/Route-vison-logo.jpg" width="200">
+  <img src="./Route-vision-logo.jpg" width="500" alt="Route Vision Logo">
 </p>
 
 #Route Vision 
