@@ -48,6 +48,10 @@ public class User {
         System.out.println("Checking availability of bus " + busNumber);
     }
 
+    public void checkEstimatedArrival(String busNumber) {
+        System.out.println("Checking estimated arrival time for bus " + busNumber);
+    }
+
     public void displayUserInfo() {
         System.out.println("User ID: " + userId);
         System.out.println("Name: " + name);
