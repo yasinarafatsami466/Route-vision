@@ -51,6 +51,9 @@ public class User {
     public void checkEstimatedArrival(String busNumber) {
         System.out.println("Checking estimated arrival time for bus " + busNumber);
     }
+    public void reportIssue(String busNumber, String issue) {
+    System.out.println("Issue reported for bus " + busNumber + ": " + issue);
+}
 
     public void displayUserInfo() {
         System.out.println("User ID: " + userId);
