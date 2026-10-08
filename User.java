@@ -54,6 +54,9 @@ public class User {
     public void reportIssue(String busNumber, String issue) {
     System.out.println("Issue reported for bus " + busNumber + ": " + issue);
 }
+public void searchBusStop(String stopName) {
+    System.out.println(name + " is searching for bus stop: " + stopName);
+}
 
     public void displayUserInfo() {
         System.out.println("User ID: " + userId);
